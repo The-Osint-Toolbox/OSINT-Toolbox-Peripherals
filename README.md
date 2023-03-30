@@ -7,6 +7,7 @@
  <li>https://mindmup.com/</li>
  <li>https://obsproject.com/</li>
  <li>https://pop.system76.com/</li>
+ <li>https://techsmith.com/</li>
  <li>https://ubuntu.com/download/desktop</li>
  <li>https://virtualbox.org/wiki/Downloads</li>
  <li>https://vmware.com/</li>
