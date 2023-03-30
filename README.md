@@ -1,5 +1,5 @@
 # OSINT-Tools
-<p>This page is dedicated to OSINT tools that you may find useful in your OSINT work. The page includes free and paid for tools, however some do offer free trials</p>
+<p>This page is dedicated to OSINT tools that you may find useful in your OSINT work. The page includes free and paid for tools, however some do offer free trials.</p>
 <ul>
 <li>https://github.com/smicallef/spiderfoot</li>
 <li>https://hunch.ly/</li>
