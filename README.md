@@ -15,6 +15,7 @@
  <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
  <li><a href="https://login.hx.spiderfoot.net/signin?">Spiderfoot HX</a></li>
  <li><a href="https://techsmith.com/">Snagit & Camtasia, Screen Recorder</a></li>
+ <li><a href="https://standardnotes.com/">Standard Notes, Note Taker</a></li>
  <li><a href="https://ubuntu.com/download/desktop">UbuntuOS</a></li>
  <li><a href="https://virtualbox.org/wiki/Downloads">Virtual Box, Virtualisation</a></li>
  <li><a href="https://vmware.com/">VMware, Virtialisation</a></li>
