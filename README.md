@@ -1,6 +1,7 @@
 # OSINT-Tools
 <p>This page is dedicated to OSINT tools that may assist you in your OSINT work. The page includes free and paid for tools, however some do offer free trials. I have included Maltego & Spiderfoot here because of the graphical capabilites that they possess. Spiderfoot comes in two flavours one is free the other is a paid for service.</p>
 <ul>
+ <li><A href="https://gchq.github.io/CyberChef/>CyberChef,">CyberChef, Web app for encryption, encoding, compression and data analysis.</a></li> 
  <li><a href="https://httrack.com/">HTTrack, Website Copier</a></li>
  <li><a href="https://hunch.ly/">Hunchly</a></li>
  <li><a href="https://maltego.com/product-features/">Maltego</a></li>
