@@ -22,5 +22,6 @@
  <li><a href="https://www.vysor.io/">Vysor, Screen Recorder</a></li>
  <li><a href="https://www.zdnet.com/article/how-to-link-your-android-phone-to-your-windows-11-pc/">Windows Phone Link</a></li>
  <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga, Graphical Analyzer</a></li>
+ <li><a href="https://ytdl-org.github.io/youtube-dl/">YouTube-dl, Video Downloader</a></li>
 </ul>
 <p>For Virtual Private Networks, check out the Privacy repos</p>
