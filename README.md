@@ -17,13 +17,13 @@
  <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a>&nbsp;&nbsp;OSINT Tool.</li>
  <li><a href="https://login.hx.spiderfoot.net/signin?">Spiderfoot HX</a>&nbsp;&nbsp;OSINT Tool.</li>
  <li><a href="https://techsmith.com/">Snagit & Camtasia</a>&nbsp;&nbsp;Screen Recording Software.</li>
- <li><a href="https://standardnotes.com/">Standard Notes</a>&nbsp;&nbsp;Note Taker</li>
+ <li><a href="https://standardnotes.com/">Standard Notes</a>&nbsp;&nbsp;Note Taker.</li>
  <li><a href="https://ubuntu.com/download/desktop">UbuntuOS</a>&nbsp;&nbsp;Linux Operating System.</li>
- <li><a href="https://virtualbox.org/wiki/Downloads">Virtual Box</a>&nbsp;&nbsp;Virtualisation</li>
- <li><a href="https://vmware.com/">VMware</a>&nbsp;&nbsp;Virtualisation</li>
+ <li><a href="https://virtualbox.org/wiki/Downloads">Virtual Box</a>&nbsp;&nbsp;Virtualisation.</li>
+ <li><a href="https://vmware.com/">VMware</a>&nbsp;&nbsp;Virtualisation.</li>
  <li><a href="https://www.vysor.io/">Vysor</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software.</li>
- <li><a href="https://www.zdnet.com/article/how-to-link-your-android-phone-to-your-windows-11-pc/">Windows Phone Link</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software</li>
- <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga<a>&nbsp;&nbsp;Graphical Analyzer</li>
- <li><a href="https://ytdl-org.github.io/youtube-dl/">YouTube-dl</a>&nbsp;&nbsp;Video Downloading Software</li>
+ <li><a href="https://www.zdnet.com/article/how-to-link-your-android-phone-to-your-windows-11-pc/">Windows Phone Link</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software.</li>
+ <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga<a>&nbsp;&nbsp;Graphical Analyzer.</li>
+ <li><a href="https://ytdl-org.github.io/youtube-dl/">YouTube-dl</a>&nbsp;&nbsp;Video Downloading Software.</li>
 </ul>
 <p>For Virtual Private Networks, check out the Privacy repos</p>
