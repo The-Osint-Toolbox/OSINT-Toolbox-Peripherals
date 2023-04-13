@@ -2,7 +2,7 @@
 <p>This page is dedicated to OSINT tools that may assist you in your OSINT work. The page includes free and paid for tools, however some do offer free trials. I have included Maltego & Spiderfoot here because of the graphical capabilites that they possess. Spiderfoot comes in two flavours one is free the other is a paid for service.</p>
 <ul>
  <li><A href="https://gchq.github.io/CyberChef/>CyberChef,">CyberChef</a>&nbsp;&nbsp;Web app for Encryption, Encoding, Compression and Data Analysis.</li>
- <li><a href="https://codebeautify.org/">Codebeautify</a>Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more.</li>
+ <li><a href="https://codebeautify.org/">Codebeautify</a>&nbsp;&nbsp;Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more.</li>
  <li><a href="https://httrack.com/">HTTrack</a>&nbsp;&nbsp;Website Copier.</li>
  <li><a href="https://hunch.ly/">Hunchly</a>&nbsp;&nbsp;Audting & Recording Software.</li>
  <li><a href="https://joplinapp.org/">Joplin</a>&nbsp;&nbsp;Note Taker.</li>
