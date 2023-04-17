@@ -6,6 +6,7 @@
  <li><a href="https://httrack.com/">HTTrack</a>&nbsp;&nbsp;Website Copier.</li>
  <li><a href="https://hunch.ly/">Hunchly</a>&nbsp;&nbsp;Audting & Recording Software.</li>
  <li><a href="https://joplinapp.org/">Joplin</a>&nbsp;&nbsp;Note Taker.</li>
+ <li><a href="https://github.com/henrywoo/kazam">Kazam</a>&nbsp;&nbsp;Screen Recording Software.</li>
  <li><a href="https://maltego.com/product-features/">Maltego</a>&nbsp;&nbsp;OSINT Tool.</li>
  <li><a href="https://mindmup.com/">Mindmup</a>&nbsp;&nbsp;Mind Maps.</li>
  <li><a href="https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en">Nimbus</a>&nbsp;&nbsp;Screenshot & Screen Recorder.</li>
@@ -27,6 +28,6 @@
  <li><a href="https://www.zdnet.com/article/how-to-link-your-android-phone-to-your-windows-11-pc/">Windows Phone Link</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software.</li>
  <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga<a>&nbsp;&nbsp;Graphical Analyzer.</li>
  <li><a href="https://ytdl-org.github.io/youtube-dl/">YouTube-dl</a>&nbsp;&nbsp;Video Downloading Software.</li>
- <li><a href="https://github.com/yt-dlp/yt-dlp">YouTube-dlp</a>&nbsp;A youtube-dl fork with additional features and fixes.</li>
+ <li><a href="https://github.com/yt-dlp/yt-dlp">YouTube-dlp</a>&nbsp;&nbsp;A youtube-dl fork with additional features and fixes.</li>
 </ul>
 <p>For Virtual Private Networks, check out the Privacy repos</p>
