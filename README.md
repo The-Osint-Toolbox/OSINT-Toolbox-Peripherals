@@ -27,5 +27,6 @@
  <li><a href="https://www.zdnet.com/article/how-to-link-your-android-phone-to-your-windows-11-pc/">Windows Phone Link</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software.</li>
  <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga<a>&nbsp;&nbsp;Graphical Analyzer.</li>
  <li><a href="https://ytdl-org.github.io/youtube-dl/">YouTube-dl</a>&nbsp;&nbsp;Video Downloading Software.</li>
+ <li><a href="https://github.com/yt-dlp/yt-dlp">YouTube-dlp</a>&nbsp;A youtube-dl fork with additional features and fixes.</li>
 </ul>
 <p>For Virtual Private Networks, check out the Privacy repos</p>
