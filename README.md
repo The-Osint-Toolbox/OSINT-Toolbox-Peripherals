@@ -1,4 +1,9 @@
 # OSINT-Peripherals
+<br></br>
+<p align="center">
+  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+</p>
+<br></br>
 <p>This page is dedicated to OSINT tools that may assist you in your OSINT work. The page includes free and paid for tools, however some do offer free trials. I have included Maltego & Spiderfoot here because of the graphical capabilites that they possess. Spiderfoot comes in two flavours one is free the other is a paid for service.</p>
 <ul>
  <li><A href="https://gchq.github.io/CyberChef/>CyberChef,">CyberChef</a>&nbsp;&nbsp;Web app for Encryption, Encoding, Compression and Data Analysis.</li>
