@@ -17,6 +17,7 @@
  <li><a href="https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en">Nimbus</a>&nbsp;&nbsp;Screenshot & Screen Recorder.</li>
  <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Obisdian</a>&nbsp;&nbsp;Note Taker & Visualisation Software.</li>
  <li><a href="https://obsproject.com/">OBS Project</a>&nbsp;&nbsp;Screen Recording Software.</li>
+ <li><a href="https://www.osintracker.com/">Osintracker</a>&nbsp;&nbsp;Free investigation app offered to the OSINT community. Allows you to track your OSINT investigations.</li>
  <li><a href="https://quickhash-gui.org/">Quick Hash</a>&nbsp;&nbsp;Hash Checker.</li>
  <li><a href="https://pop.system76.com/">PopOS</a>&nbsp;&nbsp;Linux Operating System.</li>
  <li><a href="https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en">Screenshot</a>&nbsp;&nbsp;Captures webpages</li>
