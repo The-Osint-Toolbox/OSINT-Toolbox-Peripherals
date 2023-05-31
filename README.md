@@ -8,6 +8,7 @@
 <ul>
  <li><A href="https://gchq.github.io/CyberChef/>CyberChef,">CyberChef</a>&nbsp;&nbsp;Web app for Encryption, Encoding, Compression and Data Analysis.</li>
  <li><a href="https://codebeautify.org/">Codebeautify</a>&nbsp;&nbsp;Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more.</li>
+ <li><a href="https://www.google.com/alerts">Google Alerts</a>&nbsp;&nbsp;Monitor the web for interesting new content.</li>
  <li><a href="https://httrack.com/">HTTrack</a>&nbsp;&nbsp;Website Copier.</li>
  <li><a href="https://hunch.ly/">Hunchly</a>&nbsp;&nbsp;Audting & Recording Software.</li>
  <li><a href="https://joplinapp.org/">Joplin</a>&nbsp;&nbsp;Note Taker.</li>
@@ -18,8 +19,8 @@
  <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Obisdian</a>&nbsp;&nbsp;Note Taker & Visualisation Software.</li>
  <li><a href="https://obsproject.com/">OBS Project</a>&nbsp;&nbsp;Screen Recording Software.</li>
  <li><a href="https://www.osintracker.com/">Osintracker</a>&nbsp;&nbsp;Free investigation app offered to the OSINT community. Allows you to track your OSINT investigations.</li>
- <li><a href="https://quickhash-gui.org/">Quick Hash</a>&nbsp;&nbsp;Hash Checker.</li>
  <li><a href="https://pop.system76.com/">PopOS</a>&nbsp;&nbsp;Linux Operating System.</li>
+ <li><a href="https://quickhash-gui.org/">Quick Hash</a>&nbsp;&nbsp;Hash Checker.</li>
  <li><a href="https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en">Screenshot</a>&nbsp;&nbsp;Captures webpages</li>
  <li><a href="https://github.com/Genymobile/scrcpy">Scrcpy</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software.</li>
  <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a>&nbsp;&nbsp;OSINT Tool.</li>
