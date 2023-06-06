@@ -27,8 +27,9 @@
  <li><a href="https://login.hx.spiderfoot.net/signin?">Spiderfoot HX</a>&nbsp;&nbsp;OSINT Tool.</li>
  <li><a href="https://techsmith.com/">Snagit & Camtasia</a>&nbsp;&nbsp;Screen Recording Software.</li>
  <li><a href="https://standardnotes.com/">Standard Notes</a>&nbsp;&nbsp;Note Taker.</li>
+ <li><a href="https://www.talkwalker.com/alerts">Talkwalker</a>&nbsp;&nbsp;Alternative to Google Alerts, monitoring the web for interesting new content.</li>
  <li><a href="https://ubuntu.com/download/desktop">UbuntuOS</a>&nbsp;&nbsp;Linux Operating System.</li>
-  <li><a href="https://dfir.blog/unfurl">Unfurl</a>&nbsp;&nbsp;LUnfurl takes a URL and expands ("unfurls") it into a directed graph, extracting every bit of information from the URL.</li>
+ <li><a href="https://dfir.blog/unfurl">Unfurl</a>&nbsp;&nbsp;LUnfurl takes a URL and expands ("unfurls") it into a directed graph, extracting every bit of information from the URL.</li>
  <li><a href="https://virtualbox.org/wiki/Downloads">Virtual Box</a>&nbsp;&nbsp;Virtualisation.</li>
  <li><a href="https://vmware.com/">VMware</a>&nbsp;&nbsp;Virtualisation.</li>
  <li><a href="https://www.vysor.io/">Vysor</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software.</li>
