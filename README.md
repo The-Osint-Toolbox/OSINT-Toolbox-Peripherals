@@ -8,6 +8,7 @@
 <ul>
  <li><A href="https://gchq.github.io/CyberChef/>CyberChef,">CyberChef</a>&nbsp;&nbsp;Web app for Encryption, Encoding, Compression and Data Analysis.</li>
  <li><a href="https://codebeautify.org/">Codebeautify</a>&nbsp;&nbsp;Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more.</li>
+ <li><a href="https://www.gimp.org/">GIMP</a>&nbsp;GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software.</li>
  <li><a href="https://www.google.com/alerts">Google Alerts</a>&nbsp;&nbsp;Monitor the web for interesting new content.</li>
  <li><a href="https://httrack.com/">HTTrack</a>&nbsp;&nbsp;Website Copier.</li>
  <li><a href="https://hunch.ly/">Hunchly</a>&nbsp;&nbsp;Audting & Recording Software.</li>
