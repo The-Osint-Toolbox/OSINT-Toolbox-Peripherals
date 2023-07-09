@@ -68,7 +68,7 @@
 </table>
 <ul>
      <li><a href="https://virtualbox.org/wiki/Downloads">Virtual Box</a>&nbsp;&nbsp;Virtualisation.</li>
-     <li><a href="https://vmware.com/">VMware</a>&nbsp;&nbsp;Virtualisation.</li>
+     <li><a href="https://vmware.com/">VMware</a>&nbsp;&nbsp;Virtualisation.</li>
 </ul>
 <table>
     <tr>
