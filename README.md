@@ -89,7 +89,7 @@
  </table>
  <ul>
    <li><a href="https://ytdl-org.github.io/youtube-dl/">YouTube-dl</a>&nbsp;&nbsp;Video Downloading Software.</li>
-   <li><a href="https://github.com/yt-dlp/yt-dlp">YouTube-dlp</a>&nbsp;&nbsp;A youtube-dl fork with additional features and fixes.</li>
+   <li><a href="https://github.com/yt-dlp/yt-dlp">YouTube-dlp</a>&nbsp;&nbsp;A youtube-dl fork with additional features and fixes.</li>
 </ul>
 <br></br>
 <p>For Virtual Private Networks, check out the Privacy repos</p>
