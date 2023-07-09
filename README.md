@@ -56,10 +56,11 @@
   </tr>
 </table>
 <ul>
+   <p>Use the below resources to generate usernames and/or personas for your sock accounts.</p>
     <li><a href="https://www.fakenamegenerator.com/">Fake Name Generator</a></li>
-    <li><a href="https://rumandmonkey.com/widgets/toys/namegen">Rum And Monkey</a></li>
-    <li><a href="https://www.namegenerator.biz/screen-name-generator.php">Screen Name Generator</a></li>
-    <li><a href="https://www.spinxo.com/">SpinXO</a></li>
+    <li><a href="https://rumandmonkey.com/widgets/toys/namegen">Rum And Monkey</a></li>
+    <li><a href="https://www.namegenerator.biz/screen-name-generator.php">Screen Name Generator</a></li>
+    <li><a href="https://www.spinxo.com/">SpinXO</a></li>
 </ul>
 <table>
      <tr>
