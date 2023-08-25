@@ -11,7 +11,7 @@
    </tr>
 </table> 
 <ul>
-   <li><a href="https://medium.com/@Cyber_siva/how-to-find-the-exact-location-of-anyone-osint-part-1-eed7d1323c6a">How to find exact loaction. (Blog 2023)</a></li>
+   <li><a href="https://medium.com/@Cyber_siva/how-to-find-the-exact-location-of-anyone-osint-part-1-eed7d1323c6a"></a>How to find exact loaction. (Blog 2023)</li>
    <li><a href="https://grabify.link/">Grabify</a>&nbsp;&nbsp;Grabify IP logger will help you find and track an IP address.</li>
    <li><a href="https://iplogger.org/">IP Logger</a>&nbsp;&nbsp;IP Logger URL Shortener - Log and track IP addresses</li>
 </ul>
