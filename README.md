@@ -6,6 +6,17 @@
 <br></br>
 <p>This page is dedicated to OSINT tools that may assist you in your OSINT work. The page includes free and paid for tools, however some do offer free trials. I have included Maltego & Spiderfoot here because of the graphical capabilites that they possess. Spiderfoot comes in two flavours one is free the other is a paid for service.</p>
 <table>
+   <tr>
+       <td>Location Tracking</td>
+   </tr>
+</table> 
+<ul>
+   <li><a href="https://medium.com/@Cyber_siva/how-to-find-the-exact-location-of-anyone-osint-part-1-eed7d1323c6a">How to find exact loaction. (Blog 2023)</a></li>
+   <li><a href="https://grabify.link/">Grabify</a>&nbsp;&nbsp;Grabify IP logger will help you find and track an IP address.</li>
+   <li><a href="https://iplogger.org/">IP Logger</a>&nbsp;&nbsp;IP Logger URL Shortener - Log and track IP addresses</li>
+</ul>
+<table>
+<table>
     <tr>
         <td>Miscellaneous</td>
     </tr>
