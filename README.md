@@ -61,6 +61,16 @@
      <li><a href="https://www.vysor.io/">Vysor</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software.</li>
      <li><a href="https://www.zdnet.com/article/how-to-link-your-android-phone-to-your-windows-11-pc/">Windows Phone Link</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software</li>
 </ul>
+<br></br>
+<table>
+   <tr>
+       <td>Sock Puppet Resources</td>
+   </tr>
+</table>
+<ul>
+    <li><a href="https://generated.photos/human-generator">Generated Photos</a>&nbsp;&nbsp;Create hyperrealistic full-body photos of people.</li>
+    <li><a href="https://www.thispersondoesnotexist.com/">This Person Does Not Exist</a>&nbsp;&nbsp;ThisPersonDoesNotExist.com uses AI to generate endless fake faces.</li>
+</ul>    
 <table>
    <tr>
      <td>Username Resources</td>
