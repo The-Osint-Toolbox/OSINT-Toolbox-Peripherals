@@ -25,7 +25,7 @@
      <li><a href="https://codebeautify.org/">Codebeautify</a>Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more.</li>
      <li><A href="https://gchq.github.io/CyberChef/>CyberChef,">CyberChef</a>&nbsp;&nbsp;Web app for Encryption, Encoding, Compression and Data Analysis.</li>
      <li><a href="https://support.mozilla.org/en-US/kb/website-translation">Firefox</a>&nbsp;&nbsp;Fullpage Translation.</li>
-     <li><a href="https://www.gimp.org/">Gimp</a>&nbsp;GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software.</li>
+     <li><a href="https://www.gimp.org/">Gimp</a>&nbsp;GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software.</li>
      <li><a href="https://maltego.com/product-features/">Maltego</a>&nbsp;&nbsp;OSINT Tool.</li>
      <li><a href="https://www.osintracker.com/">Osintracker</a>Free investigation app offered to the OSINT community. Allows you to track your OSINT investigations.</li>
      <li><a href="https://quickhash-gui.org/">Quick Hash</a>&nbsp;&nbsp;Hash Checker.</li>
