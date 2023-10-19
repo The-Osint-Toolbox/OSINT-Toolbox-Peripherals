@@ -36,6 +36,8 @@
 </br>
      <li><a href="https://ukdataexplorer.com/european-translator/">UK Data Explorer</a>&nbsp;&nbsp;European word translator.</li>
      <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga<a>&nbsp;&nbsp;Graphical Analyzer.</li>
+</br>
+     <li><a href="https://explore.whatismybrowser.com/useragents/parse/">What Is My Browser</a>Parse a User Agnet String.</li>
 </ul>
 <table>
     <tr>
@@ -62,7 +64,8 @@
      <li><a href="https://github.com/Genymobile/scrcpy">Scrcpy</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software.</li>
      <li><a href="https://techsmith.com/">Snagit & Camtasia</a>&nbsp;&nbsp;Screen Recording Software.</li>
      <li><a href="https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en">Screenshot</a>&nbsp;&nbsp;Captures webpages</li>
-     <li><a href="https://standardnotes.com/">Standard Notes</a>&nbsp;&nbsp;Note Taker.</li> 
+     <li><a href="https://standardnotes.com/">Standard Notes</a>&nbsp;&nbsp;Note Taker.</li>
+</br>
      <li><a href="https://www.vortimo.com/">Vortimo OSINT-Tool</a>&nbsp;&nbsp;Vortimo makes tools for researchers, investigators, journalists and intelligence analysts.</li>
      <li><a href="https://www.vysor.io/">Vysor</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software.</li>
      <li><a href="https://www.zdnet.com/article/how-to-link-your-android-phone-to-your-windows-11-pc/">Windows Phone Link</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software</li>
