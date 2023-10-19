@@ -79,7 +79,7 @@
 <ul>
     <li><a href="https://generated.photos/human-generator">Generated Photos</a>&nbsp;&nbsp;Create hyperrealistic full-body photos of people.</li>
     <li><a href="https://osintph.medium.com/the-ultimate-guide-to-sockpuppets-in-osint-how-to-create-and-utilize-them-effectively-d088c2ed6e36">Sigmund Brandstaetter</a>&nbsp;&nbsp;Guide to creating Sock Puppets. (2023)</li>
-    <li><a href="https://github.com/snap-research/HyperHuman">Hyper Human</a></li>&nbsp;&nbsp;Github Repo for hyper-realistic human generation.
+    <li><a href="https://github.com/snap-research/HyperHuman">Hyper Human</a>&nbsp;&nbsp;Github Repo for hyper-realistic human generation.</li>
     <li><a href="https://www.thispersondoesnotexist.com/">This Person Does Not Exist</a>&nbsp;&nbsp;ThisPersonDoesNotExist.com uses AI to generate endless fake faces.</li>
 </ul>    
 <table>
