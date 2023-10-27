@@ -48,6 +48,21 @@
      <li><a href="https://pop.system76.com/">PopOS</a>&nbsp;&nbsp;Linux Operating System.</li>
      <li><a href="https://ubuntu.com/download/desktop">UbuntuOS</a>&nbsp;&nbsp;Linux Operating System.</li>
 </ul>
+<br></br>      
+<table>
+    <tr>
+        <td>PGP Key Servers</td>
+    </tr>
+</table>  
+<ul>
+    <li><a href="https://keybase.io/">Keybase</a>&nbsp;&nbsp;Secure messaging and file-sharing.</li>
+    <li><a href="https://keys.openpgp.org/">Keys</a>&nbsp;&nbsp;OpenPGP keyserver.</li>
+    <li><a href="https://keyserver.pgp.com/vkd/GetWelcomeScreen.event">Keyserver</a>&nbsp;&nbsp;Global Directory keyserver.</li>
+    <li><a href="https://keys.mailvelope.com/manage.html">Mailvelope</a>&nbsp;&nbsp;OpenPGP keyserver.</li>
+    <li><a href="https://pgp.mit.edu/">Mit</a>&nbsp;&nbsp;PGP Public Key Server.</li>
+    <li><a href="https://keyserver.ubuntu.com/">Ubuntu</a>&nbsp;&nbsp;Hockeypuck OpenPGP keyserver.</li>
+</ul>  
+<br></br>
 <table>
     <tr>
         <td>Recording & Auditing</td>
