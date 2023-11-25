@@ -126,7 +126,8 @@
     </tr>
 </table>
 <ul>
-    <li><a href="https://www.google.com/alerts">Google Alerts</a>&nbsp;&nbsp;Monitor the web for interesting new content.</li>
+    <li><a href="https://12ft.io/">12ft</a>&nbsp;&nbsp;Remove popups, banners, and ads from any website.</li>
+    <li><a href="https://www.google.com/alerts">Google Alerts</a>&nbsp;&nbsp;Monitor the web for interesting new content.</li>
     <li><a href="https://httrack.com/">HTTrack</a>&nbsp;&nbsp;Website Copier.</li>
     <li><a href="https://www.ionos.com/digitalguide/domains/domain-extensions/cctlds-a-list-of-every-country-domain/">Ionos</a>&nbsp;&nbsp;Country Domains.</li>
     <li><a href="https://www.talkwalker.com/alerts">Talkwalker</a>&nbsp;&nbsp;Alternative to Google Alerts, monitoring the web for interesting new content</li>
