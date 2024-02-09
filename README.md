@@ -79,6 +79,8 @@
     </tr> 
 </table> 
 <ul>
+     <li><a href="https://www.forensicosint.com/">Forensic OSINT</a>&nbsp;&nbsp;OSINT web capture software.capture evidence quickly before it disappears.</li>
+  <br/>
      <li><a href="https://hunch.ly/">Hunchly</a>&nbsp;&nbsp;Audting & Recording Software.</li>
      <li><a href="https://joplinapp.org/">Joplin</a>&nbsp;&nbsp;Note Taker.</li>
      <li><a href="https://github.com/henrywoo/kazam">Kazam</a>&nbsp;&nbsp;Screen Recording Software.</li>
