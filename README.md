@@ -5,6 +5,17 @@
 </p>
 <br></br>
 <p>This page is dedicated to OSINT tools that may assist you in your OSINT work. The page includes free and paid for tools, however some do offer free trials. I have included Maltego & Spiderfoot here because of the graphical capabilites that they possess. Spiderfoot comes in two flavours one is free the other is a paid for service.</p>
+<br/>
+<table>
+   <tr>
+       <td>OSINT Aggregator Tools </td>
+   </tr>
+</table> 
+<ul>
+   <li><a href="https://analystresearchtools.com/">Analyst Research Tools</a></li>
+   <li><a href="https://inteltechniques.com/tools/">IntelTechniques OSINT Tools</a></li>
+</ul>
+<br/>
 <table>
    <tr>
        <td>Location Tracking</td>
