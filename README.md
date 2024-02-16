@@ -102,6 +102,8 @@
      <li><a href="https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en">Nimbus</a>&nbsp;&nbsp;Screenshot & Screen Recorder.</li>
      <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Obisdian</a>&nbsp;&nbsp;Note Taker & Visualisation Software.</li>
      <li><a href="https://obsproject.com/">OBS Project</a>&nbsp;&nbsp;Screen Recording Software.</li>
+<br/>  
+     <li><a href="https://osirtbrowser.com/">OSIRT</a>&nbsp;&nbsp;Conduct online & digital investigations and effortlessly capture evidence.</li>
      <li><a href="https://github.com/Genymobile/scrcpy">Scrcpy</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software.</li>
      <li><a href="https://techsmith.com/">Snagit & Camtasia</a>&nbsp;&nbsp;Screen Recording Software.</li>
      <li><a href="https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en">Screenshot</a>&nbsp;&nbsp;Captures webpages</li>
