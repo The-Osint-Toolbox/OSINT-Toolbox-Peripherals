@@ -51,6 +51,8 @@
     <br/>
      <li><a href="https://maltego.com/product-features/">Maltego</a>&nbsp;&nbsp;OSINT Tool.</li>
   <br/>
+     <li><a href="https://github.com/redhuntlabs/Octopii">Octopii</a>&nbsp;&nbsp;Octopii is a Personally Identifiable Information (PII) scanner.</li>
+  <br/>
      <li><a href="https://osintleak.com/">OSINT Leaks</a>&nbsp;&nbsp;Multi purpose OSINT search capability.</li>
      <li><a href="https://www.osintracker.com/">Osintracker</a>Free investigation app offered to the OSINT community. Allows you to track your OSINT investigations.</li>
   <br/>
