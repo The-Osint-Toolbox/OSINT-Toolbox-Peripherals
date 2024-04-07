@@ -61,6 +61,8 @@
      <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a>&nbsp;&nbsp;OSINT Tool.</li>
      <li><a href="https://login.hx.spiderfoot.net/signin?">Spiderfoot HX</a>&nbsp;&nbsp;OSINT Tool.</li>
 </br>
+     <li><a href="https://www.os-surveillance.io/">OS-Surveillance</a>&nbsp;&nbsp;Gather real-time intelligence from Social media,, IOT, cameras etc.</li>
+</br>
      <li><a href="https://ukdataexplorer.com/european-translator/">UK Data Explorer</a>&nbsp;&nbsp;European word translator.</li>
      <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga<a>&nbsp;&nbsp;Graphical Analyzer.</li>
 </br>
