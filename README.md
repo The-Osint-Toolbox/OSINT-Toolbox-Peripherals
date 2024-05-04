@@ -15,14 +15,13 @@
    <li><a href="https://analystresearchtools.com/">Analyst Research Tools</a></li>
    <li><a href="https://inteltechniques.com/tools/">IntelTechniques OSINT Tools</a></li>
 </ul>
-<br/>
 <table>
    <tr>
        <td>Location Tracking</td>
    </tr>
-</table> 
+</table>
 <ul>
-   <li><a href="https://medium.com/@Cyber_siva/how-to-find-the-exact-location-of-anyone-osint-part-1-eed7d1323c6a">How to find exact loaction</a>&nbsp;&nbsp;Siva Sanker. (Blog 2023)</li>
+   <li><a href="https://medium.com/@Cyber_siva/how-to-find-the-exact-location-of-anyone-osint-part-1-eed7d1323c6a">How to find exact loaction</a>&nbsp;&nbsp;Siva Sanker. (Blog 2023)</li>
    <li><a href="https://grabify.link/">Grabify</a>&nbsp;&nbsp;Grabify IP logger will help you find and track an IP address.</li>
    <li><a href="https://iplogger.org/">IP Logger</a>&nbsp;&nbsp;IP Logger URL Shortener - Log and track IP addresses.</li>
 </ul>
@@ -42,6 +41,7 @@
      <li><a href="https://www.gimp.org/">Gimp</a>&nbsp;GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software.</li>
      <li><a href="https://goosint.com/">GoOSINT</a>&nbsp;&nbsp;130 Web-enabled OSINT and Cybersecurity Tools.</li>
      <li><a href="https://greasyfork.org/en/scripts">Greasy Fork</a>&nbsp;&nbsp;Scripts to help you with your OSINT.</li>
+     <li><a href="https://jdownloader.org/home/index">JDownloader</a>&nbsp;&nbsp;JDownloader is a free, open-source download management tool.</li>
      <li><a href="https://maltego.com/product-features/">Maltego</a>&nbsp;&nbsp;OSINT Tool.</li>
      <li><a href="https://github.com/redhuntlabs/Octopii">Octopii</a>&nbsp;&nbsp;Octopii is a Personally Identifiable Information (PII) scanner.</li>
      <li><a href="https://osintleak.com/">OSINT Leaks</a>&nbsp;&nbsp;Multi purpose OSINT search capability.</li>
