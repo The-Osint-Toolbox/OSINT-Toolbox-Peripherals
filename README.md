@@ -84,6 +84,7 @@
     </tr> 
 </table> 
 <ul>
+     <li><a href="https://anydesk.com/en">AnyDesk</a>&nbsp;&nbsp;AnyDesk is to grant bidirectional remote access between personal computers and mobile devices.</li>
      <li><a href="https://www.forensicosint.com/">Forensic OSINT</a>&nbsp;&nbsp;OSINT web capture software.capture evidence quickly before it disappears.</li>
      <li><a href="https://hunch.ly/">Hunchly</a>&nbsp;&nbsp;Audting & Recording Software.</li>
      <li><a href="https://joplinapp.org/">Joplin</a>&nbsp;&nbsp;Note Taker.</li>
