@@ -36,6 +36,7 @@
      <li><a href="https://codebeautify.org/">Codebeautify</a>&nbsp;&nbsp;Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more.</li>
      <li><a href="https://github.com/cipher387/cheatsheets">Cipher 387</a>&nbsp;&nbsp;A collection of OSINT cheat sheets.</li>
      <li><a href="https://github.com/cipher387/API-s-for-OSINT">Cipher 387</a>&nbsp;&nbsp;List of API's for gathering information about phone numbers, addresses, domains etc.</li>
+     <li><a href="https://cybdetective.com/osintmap/">CybDetective</a>&nbsp;&nbsp;Worldwide OSINT tools map.</li>
      <li><A href="https://gchq.github.io/CyberChef/>CyberChef,">CyberChef</a>&nbsp;&nbsp;Web app for Encryption, Encoding, Compression and Data Analysis.</li>
      <li><a href="https://github.com/Dutchosintguy/keywords-highlight-bookmark/">Dutch OSINT Guy</a>&nbsp;&nbsp;Browser Bookmark that will ask for keyword(s) and then color highlight these words on the webpage you visit.</li>
      <li><a href="https://support.mozilla.org/en-US/kb/website-translation">Firefox</a>&nbsp;&nbsp;Fullpage offline translation.</li>
