@@ -58,6 +58,7 @@
      <li><a href="https://ukdataexplorer.com/european-translator/">UK Data Explorer</a>&nbsp;&nbsp;European word translator.</li>
      <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga<a>&nbsp;&nbsp;Graphical Analyzer.</li>
      <li><a href="https://explore.whatismybrowser.com/useragents/parse/">What Is My Browser</a>Parse a User Agnet String.</li>
+     <li><a href="https://github.com/0x4f53/subs">Subs</a>Extract, validate and resolve subdomains in milliseconds - right from the cli!</li>
 </ul>
 <table>
     <tr>
