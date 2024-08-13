@@ -57,8 +57,8 @@
      <li><a href="https://www.os-surveillance.io/">OS-Surveillance</a>&nbsp;&nbsp;Gather real-time intelligence from Social media,, IOT, cameras etc.</li>
      <li><a href="https://ukdataexplorer.com/european-translator/">UK Data Explorer</a>&nbsp;&nbsp;European word translator.</li>
      <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga<a>&nbsp;&nbsp;Graphical Analyzer.</li>
-     <li><a href="https://explore.whatismybrowser.com/useragents/parse/">What Is My Browser</a>&nbsp;&nbsp;Parse a User Agnet String.</li>
-     <li><a href="https://github.com/0x4f53/subs">Subs</a>&nbsp;&nbsp;Extract, validate and resolve subdomains in milliseconds - right from the cli!</li>
+     <li><a href="https://explore.whatismybrowser.com/useragents/parse/">What Is My Browser</a>&nbsp;&nbsp;Parse a User Agent String.</li>
+     <li><a href="https://github.com/0x4f53/subs">Subs</a>&nbsp;&nbsp;CLI tool to extract, validate and resolve subdomains in milliseconds - right from the cli!</li>
 </ul>
 <table>
     <tr>
