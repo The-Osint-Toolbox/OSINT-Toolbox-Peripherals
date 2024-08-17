@@ -56,7 +56,7 @@
      <li><a href="https://login.hx.spiderfoot.net/signin?">Spiderfoot HX</a>&nbsp;&nbsp;OSINT Tool.</li>
      <li><a href="https://www.os-surveillance.io/">OS-Surveillance</a>&nbsp;&nbsp;Gather real-time intelligence from Social media,, IOT, cameras etc.</li>
      <li><a href="https://ukdataexplorer.com/european-translator/">UK Data Explorer</a>&nbsp;&nbsp;European word translator.</li>
-     <li><a href="https://github.com/TermuxHackz/X-osint"></a>X-OSINT&nbsp;&nbsp;An Open source intelligent framework, for emails, IPs, phone numbers etc.</li>
+     <li><a href="https://github.com/TermuxHackz/X-osint">X-OSINT&nbsp;&nbsp;</a>An Open source intelligent framework, for emails, IPs, phone numbers etc.</li>
      <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga<a>&nbsp;&nbsp;Graphical Analyzer.</li>
      <li><a href="https://explore.whatismybrowser.com/useragents/parse/">What Is My Browser</a>Parse a User Agnet String.</li>
 </ul>
