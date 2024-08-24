@@ -14,6 +14,10 @@
 <ul>
    <li><a href="https://analystresearchtools.com/">Analyst Research Tools</a></li>
    <li><a href="https://inteltechniques.com/tools/">IntelTechniques OSINT Tools</a></li>
+   <li><a href="https://maltego.com/product-features/">Maltego</a></li>
+   <li><a href="https://beta.predictagraph.com/">Predicta Graph</a>&nbsp;&nbsp;Explore and anayze data.</li>
+   <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
+   <li><a href="https://login.hx.spiderfoot.net/signin?">Spiderfoot HX</a></li>
 </ul>
 <table>
    <tr>
@@ -44,7 +48,6 @@
      <li><a href="https://goosint.com/">GoOSINT</a>&nbsp;&nbsp;130 Web-enabled OSINT and Cybersecurity Tools.</li>
      <li><a href="https://greasyfork.org/en/scripts">Greasy Fork</a>&nbsp;&nbsp;Scripts to help you with your OSINT.</li>
      <li><a href="https://jdownloader.org/home/index">JDownloader</a>&nbsp;&nbsp;JDownloader is a free, open-source download management tool.</li>
-     <li><a href="https://maltego.com/product-features/">Maltego</a>&nbsp;&nbsp;OSINT Tool.</li>
      <li><a href="https://start.me/p/0PYlQd/decoding-smartphone-identifiers">Moon OSINT</a>&nbsp;&nbsp;Decoding Smartphone Identifiers.</li>
      <li><a href="https://tools.myosint.training/">My OSINT Tools</a>&nbsp;&nbsp;A selection of OSINT bookmarklets.</li>
      <li><a href="https://github.com/redhuntlabs/Octopii">Octopii</a>&nbsp;&nbsp;Octopii is a Personally Identifiable Information (PII) scanner.</li>
@@ -53,8 +56,6 @@
      <li><a href="https://github.com/toddmotto/public-apis">Public APIs</a>&nbsp;&nbsp;A collective list of free APIs.</li>
      <li><a href="https://quickhash-gui.org/">Quick Hash</a>&nbsp;&nbsp;Hash Checker.</li>
      <li><a href="https://github.com/seekr-osint/seekr">Seekr</a>&nbsp;&nbsp;A multi-purpose OSINT toolkit with a neat web-interface.</li>
-     <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a>&nbsp;&nbsp;OSINT Tool.</li>
-     <li><a href="https://login.hx.spiderfoot.net/signin?">Spiderfoot HX</a>&nbsp;&nbsp;OSINT Tool.</li>
      <li><a href="https://www.os-surveillance.io/">OS-Surveillance</a>&nbsp;&nbsp;Gather real-time intelligence from Social media,, IOT, cameras etc.</li>
      <li><a href="https://ukdataexplorer.com/european-translator/">UK Data Explorer</a>&nbsp;&nbsp;European word translator.</li>
      <li><a href="https://github.com/TermuxHackz/X-osint">X-OSINT&nbsp;&nbsp;</a>An Open source intelligent framework, for emails, IPs, phone numbers etc.</li>
