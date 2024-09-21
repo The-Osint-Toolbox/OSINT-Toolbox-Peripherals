@@ -16,6 +16,7 @@
    <li><a href="https://inteltechniques.com/tools/">IntelTechniques OSINT Tools</a></li>
    <li><a href="https://maltego.com/product-features/">Maltego</a></li>
    <li><a href="https://www.osint.industries/">OSINT.Industries</a></li>
+   <li><a href="https://lambda.black/osint.html">OSINT Investigation Assistant</a></li>
    <li><a href="https://www.os-surveillance.io/">OS-Surveillance</a></li>
    <li><a href="https://beta.predictagraph.com/">Predicta Graph</a></li>
    <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
