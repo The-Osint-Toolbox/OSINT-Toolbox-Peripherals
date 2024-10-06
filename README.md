@@ -32,6 +32,16 @@
    <li><a href="https://iplogger.org/">IP Logger</a>&nbsp;&nbsp;IP Logger URL Shortener - Log and track IP addresses.</li>
 </ul>
 <table>
+   <tr>
+       <td>Marketplaces</td>
+   </tr>
+</table>
+<ul>
+   <li><a href="http://searchalljunk.com/">Search All Junk</a></li>
+   <li><a href="https://www.searchtempest.com/">Search Tempest</a></li>
+  <li><a href="https://claz.org/">Claz</a></li>
+</ul>
+<table>
     <tr>
         <td>Miscellaneous</td>
     </tr>
