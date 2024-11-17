@@ -39,7 +39,7 @@
 <ul>
    <li><a href="http://searchalljunk.com/">Search All Junk</a></li>
    <li><a href="https://www.searchtempest.com/">Search Tempest</a></li>
-  <li><a href="https://claz.org/">Claz</a></li>
+   <li><a href="https://claz.org/">Claz</a></li>
 </ul>
 <table>
     <tr>
@@ -63,6 +63,7 @@
      <li><a href="https://goosint.com/">GoOSINT</a>&nbsp;&nbsp;130 Web-enabled OSINT and Cybersecurity Tools.</li>
      <li><a href="https://greasyfork.org/en/scripts">Greasy Fork</a>&nbsp;&nbsp;Scripts to help you with your OSINT.</li>
      <li><a href="https://jdownloader.org/home/index">JDownloader</a>&nbsp;&nbsp;JDownloader is a free, open-source download management tool.</li>
+     <li><a href="https://github.com/K2SOsint/Bookmarklets">K2SOsint</a>&nbsp;&nbsp;A small collection of bookmarklets.</li>
      <li><a href="https://start.me/p/0PYlQd/decoding-smartphone-identifiers">Moon OSINT</a>&nbsp;&nbsp;Decoding Smartphone Identifiers.</li>
      <li><a href="https://tools.myosint.training/">My OSINT Tools</a>&nbsp;&nbsp;A selection of OSINT bookmarklets.</li>
      <li><a href="https://github.com/redhuntlabs/Octopii">Octopii</a>&nbsp;&nbsp;Octopii is a Personally Identifiable Information (PII) scanner.</li>
