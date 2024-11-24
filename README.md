@@ -67,6 +67,7 @@
      <li><a href="https://start.me/p/0PYlQd/decoding-smartphone-identifiers">Moon OSINT</a>&nbsp;&nbsp;Decoding Smartphone Identifiers.</li>
      <li><a href="https://tools.myosint.training/">My OSINT Tools</a>&nbsp;&nbsp;A selection of OSINT bookmarklets.</li>
      <li><a href="https://github.com/redhuntlabs/Octopii">Octopii</a>&nbsp;&nbsp;Octopii is a Personally Identifiable Information (PII) scanner.</li>
+     <li><a href="https://onlinepngtools.com/#tools">Online PNG Tools</a>&nbsp;&nbsp;Online PNG Tools are the Swiss army knife for all your PNG editing need.</li>
      <li><a href="https://osintleak.com/">OSINT Leaks</a>&nbsp;&nbsp;Multi purpose OSINT search capability.</li>
      <li><a href="https://www.osintracker.com/">Osintracker</a>&nbsp;&nbsp;Free investigation app offered to the OSINT community. Allows you to track your OSINT investigations.</li>
      <li><a href="https://github.com/toddmotto/public-apis">Public APIs</a>&nbsp;&nbsp;A collective list of free APIs.</li>
