@@ -117,6 +117,7 @@
      <li><a href="https://mindmup.com/">Mindmup</a>&nbsp;&nbsp;Mind Maps.</li>
      <li><a href="https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en">Nimbus</a>&nbsp;&nbsp;Screenshot & Screen Recorder.</li>
      <li><a href="https://noteapps.info/">Noteapp</a>&nbsp;&nbsp;Encyclopedia of note taking apps.</li>
+     <li><a href="https://notesnook.com/">Notesnook</a>&nbsp;&nbsp;Write notes with freedom, no spying, no tracking.</li>
      <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Obisdian</a>&nbsp;&nbsp;Note Taker & Visualisation Software.</li>
      <li><a href="https://obsproject.com/">OBS Project</a>&nbsp;&nbsp;Screen Recording Software.</li>
      <li><a href="https://osirtbrowser.com/">OSIRT</a>&nbsp;&nbsp;Conduct online & digital investigations and effortlessly capture evidence.</li>
