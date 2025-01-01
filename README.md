@@ -21,6 +21,7 @@
    <li><a href="https://beta.predictagraph.com/">Predicta Graph</a></li>
    <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
    <li><a href="https://login.hx.spiderfoot.net/signin?">Spiderfoot HX</a></li>
+   <li><a href="https://osint.ly/">Osintly</a></li>
 </ul>
 <table>
    <tr>
