@@ -61,6 +61,7 @@
      <li><a href="https://github.com/Dutchosintguy/keywords-highlight-bookmark/">Dutch OSINT Guy</a>&nbsp;&nbsp;Browser Bookmark that will ask for keyword(s) and then color highlight these words on the webpage you visit.</li>
      <li><a href="https://github.com/Dutchosintguy/OSINT-timeline">Dutch OSINT Guy</a>&nbsp;&nbsp;OSINT Timeline Tool.</li>
      <li><a href="https://support.mozilla.org/en-US/kb/website-translation">Firefox</a>&nbsp;&nbsp;Fullpage offline translation.</li>
+     <li><a href="https://gist.github.com/fs0c131y/f498b21cba9ee23956fc7d7629262e9d">fs0c131y</a>&nbsp;&nbsp;Location Tracking Apps</li>
      <li><a href="https://www.gimp.org/">Gimp</a>&nbsp;GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software.</li>
      <li><a href="https://goosint.com/">GoOSINT</a>&nbsp;&nbsp;130 Web-enabled OSINT and Cybersecurity Tools.</li>
      <li><a href="https://greasyfork.org/en/scripts">Greasy Fork</a>&nbsp;&nbsp;Scripts to help you with your OSINT.</li>
