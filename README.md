@@ -63,6 +63,7 @@
      <li><a href="https://support.mozilla.org/en-US/kb/website-translation">Firefox</a>&nbsp;&nbsp;Fullpage offline translation.</li>
      <li><a href="https://gist.github.com/fs0c131y/f498b21cba9ee23956fc7d7629262e9d">fs0c131y</a>&nbsp;&nbsp;Location Tracking Apps List.</li>
      <li><a href="https://www.gimp.org/">Gimp</a>&nbsp;GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software.</li>
+     <lI><a href="https://www.google.com/alerts">Google Alerst</a>&nbsp;&nbsp;Monitor the web for interesting new content.</lI>
      <li><a href="https://goosint.com/">GoOSINT</a>&nbsp;&nbsp;130 Web-enabled OSINT and Cybersecurity Tools.</li>
      <li><a href="https://docs.google.com/spreadsheets/d/1Ukgd0gIWd9gpV6bOx2pcSHsVO6yIUqbjnlM4ewjO6Cs/edit?gid=1257088277#gid=1257088277">Gravy App list</a>&nbsp;&nbsp;Location Tracking App List.</li>
      <li><a href="https://greasyfork.org/en/scripts">Greasy Fork</a>&nbsp;&nbsp;Scripts to help you with your OSINT.</li>
