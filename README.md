@@ -13,6 +13,7 @@
 </table> 
 <ul>
    <li><a href="https://analystresearchtools.com/">Analyst Research Tools</a></li>
+   <li><a href="https://www.deepfind.me/">DeepFindMe</a></li>
    <li><a href="https://inteltechniques.com/tools/">IntelTechniques OSINT Tools</a></li>
    <li><a href="https://maltego.com/product-features/">Maltego</a></li>
    <li><a href="https://www.osint.industries/">OSINT.Industries</a></li>
