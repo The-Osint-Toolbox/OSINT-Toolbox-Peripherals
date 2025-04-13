@@ -14,6 +14,7 @@
 <ul>
    <li><a href="https://analystresearchtools.com/">Analyst Research Tools</a></li>
    <li><a href="https://www.deepfind.me/">DeepFindMe</a></li>
+   <li><a href="https://digitaldigging.org/osint/">DigitalDigging</a></li>
    <li><a href="https://epieos.com/">Epieos</a></li>
    <li><a href="https://inteltechniques.com/tools/">IntelTechniques OSINT Tools</a></li>
    <li><a href="https://maltego.com/product-features/">Maltego</a></li>
