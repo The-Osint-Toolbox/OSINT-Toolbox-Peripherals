@@ -18,6 +18,7 @@
    <li><a href="https://epieos.com/">Epieos</a></li>
    <li><a href="https://inteltechniques.com/tools/">IntelTechniques OSINT Tools</a></li>
    <li><a href="https://maltego.com/product-features/">Maltego</a></li>
+   <li><a href="https://noimosiny.com/">Noimosiny</a></li>
    <li><a href="https://www.osintcanada.com/home">OSINT Canada</a></li>
    <li><a href="https://www.osint.industries/">OSINT.Industries</a></li>
    <li><a href="https://lambda.black/osint.html">OSINT Investigation Assistant</a></li>
