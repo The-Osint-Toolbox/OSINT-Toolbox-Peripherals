@@ -23,6 +23,7 @@
    <li><a href="https://lambda.black/osint.html">OSINT Investigation Assistant</a></li>
    <li><a href="https://www.os-surveillance.io/">OS-Surveillance</a></li>
    <li><a href="https://beta.predictagraph.com/">Predicta Graph</a></li>
+   <li><a href="https://search.profiler.me/">Profiler</a></li>
    <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
    <li><a href="https://login.hx.spiderfoot.net/signin?">Spiderfoot HX</a></li>
    <li><a href="https://osint.ly/">Osintly</a></li>
