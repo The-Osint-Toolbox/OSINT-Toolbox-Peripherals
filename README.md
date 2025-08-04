@@ -89,7 +89,7 @@
      <li><a href="https://www.osintracker.com/">Osintracker</a>&nbsp;&nbsp;Free investigation app offered to the OSINT community. Allows you to track your OSINT investigations.</li>
      <li><a href="https://github.com/toddmotto/public-apis">Public APIs</a>&nbsp;&nbsp;A collective list of free APIs.</li>
      <li><a href="https://quickhash-gui.org/">Quick Hash</a>&nbsp;&nbsp;Hash Checker.</li>
-     <li><a href="https://rapidapi.com/">RapidAPI</a></li>
+     <li><a href="https://rapidapi.com/">RapidAPI</a>&nbsp;&nbsp;Access to numerous APIs</li>
      <li><a href="https://readmedium.com/">Read Medium</a>&nbsp;&nbsp;Enables you to read Medium articles that requires you to log in.</li>
      <li><a href="https://github.com/seekr-osint/seekr">Seekr</a>&nbsp;&nbsp;A multi-purpose OSINT toolkit with a neat web-interface.</li>
      <li><a href="https://www.os-surveillance.io/">OS-Surveillance</a>&nbsp;&nbsp;Gather real-time intelligence from Social media,, IOT, cameras etc.</li>
