@@ -68,6 +68,7 @@
      <li><a href="https://wiki.digitalmethods.net/Dmi/ToolDatabase">Digital Methods</a>&nbsp;&nbsp;Tools developed by the DMI & affiliates.</li>
      <li><a href="https://github.com/Dutchosintguy/keywords-highlight-bookmark/">Dutch OSINT Guy</a>&nbsp;&nbsp;Browser Bookmark that will ask for keyword(s) and then color highlight these words on the webpage you visit.</li>
      <li><a href="https://github.com/Dutchosintguy/OSINT-timeline">Dutch OSINT Guy</a>&nbsp;&nbsp;OSINT Timeline Tool.</li>
+     <li><a href="https://filesec.io/">FileSec</a>&nbsp;&nbsp;Stay up-to-date with the latest file extensions being used by attackers.</li>
      <li><a href="https://support.mozilla.org/en-US/kb/website-translation">Firefox</a>&nbsp;&nbsp;Fullpage offline translation.</li>
      <li><a href="https://gist.github.com/fs0c131y/f498b21cba9ee23956fc7d7629262e9d">fs0c131y</a>&nbsp;&nbsp;Location Tracking Apps List.</li>
      <li><a href="https://www.gangmap.com/">Gang Map</a>&nbsp;&nbsp;An aggregation of gang maps, territories and activities made by Reddit users.</li>
