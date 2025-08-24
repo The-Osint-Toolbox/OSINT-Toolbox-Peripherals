@@ -118,6 +118,7 @@
 </table>  
 <ul>
     <li><a href="https://keybase.io/">Keybase</a>&nbsp;&nbsp;Secure messaging and file-sharing.</li>
+    <li><a href="https://darkwebinformer.com/pgp-message-verification-tool/">darkwebinformer</a>&nbsp;&nbsp;PGP message verification tool.</li>
     <li><a href="https://keys.openpgp.org/">Keys</a>&nbsp;&nbsp;OpenPGP keyserver.</li>
     <li><a href="https://keyserver.pgp.com/vkd/GetWelcomeScreen.event">Keyserver</a>&nbsp;&nbsp;Global Directory keyserver.</li>
     <li><a href="https://keys.mailvelope.com/manage.html">Mailvelope</a>&nbsp;&nbsp;OpenPGP keyserver.</li>
