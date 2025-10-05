@@ -94,7 +94,7 @@
      <li><a href="https://rapidapi.com/">RapidAPI</a>&nbsp;&nbsp;Access to numerous APIs</li>
      <li><a href="https://readmedium.com/">Read Medium</a>&nbsp;&nbsp;Enables you to read Medium articles that requires you to log in.</li>
      <li><a href="https://github.com/seekr-osint/seekr">Seekr</a>&nbsp;&nbsp;A multi-purpose OSINT toolkit with a neat web-interface.</li>
-     <li><a href="https://sms4sats.com/">SMS4Sats</a></li>
+     <li><a href="https://sms4sats.com/">SMS4Sats</a>&nbsp;&nbsp;Send and receive SMS without giving away your phone number.</li>
      <li><a href="https://www.os-surveillance.io/">OS-Surveillance</a>&nbsp;&nbsp;Gather real-time intelligence from Social media,, IOT, cameras etc.</li>
      <li><a href="https://ukdataexplorer.com/european-translator/">UK Data Explorer</a>&nbsp;&nbsp;European word translator.</li>
      <li><a href="https://vidgrid.tk.gg/">VidGrid</a>&nbsp;&nbsp;Multi Video Feed.</li>
@@ -149,6 +149,7 @@
      <li><a href="https://techsmith.com/">Snagit & Camtasia</a>&nbsp;&nbsp;Screen Recording Software.</li>
      <li><a href="https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en">Screenshot</a>&nbsp;&nbsp;Captures webpages</li>
      <li><a href="https://standardnotes.com/">Standard Notes</a>&nbsp;&nbsp;Note Taker.</li>
+     <li><a href="https://www.ubikron.com/">Ubikron</a>&nbsp;&nbsp;Track every step in your research, storing, tagging, and enriching.</li>
      <li><a href="https://www.vortimo.com/">Vortimo OSINT-Tool</a>&nbsp;&nbsp;Vortimo makes tools for researchers, investigators, journalists and intelligence analysts.</li>
      <li><a href="https://www.vysor.io/">Vysor</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software.</li>
      <li><a href="https://www.zdnet.com/article/how-to-link-your-android-phone-to-your-windows-11-pc/">Windows Phone Link</a>&nbsp;&nbsp;Mobile Phone Screen Mirroring Software</li>
