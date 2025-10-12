@@ -93,6 +93,7 @@
      <li><a href="https://quickhash-gui.org/">Quick Hash</a>&nbsp;&nbsp;Hash Checker.</li>
      <li><a href="https://rapidapi.com/">RapidAPI</a>&nbsp;&nbsp;Access to numerous APIs</li>
      <li><a href="https://readmedium.com/">Read Medium</a>&nbsp;&nbsp;Enables you to read Medium articles that requires you to log in.</li>
+     <li><a href="https://receive-smss.com/">ReceiveSMS</a>&nbsp;&nbsp;Temporary phone numbers from 50+ countries.</li>
      <li><a href="https://github.com/seekr-osint/seekr">Seekr</a>&nbsp;&nbsp;A multi-purpose OSINT toolkit with a neat web-interface.</li>
      <li><a href="https://sms4sats.com/">SMS4Sats</a>&nbsp;&nbsp;Send and receive SMS without giving away your phone number.</li>
      <li><a href="https://www.os-surveillance.io/">OS-Surveillance</a>&nbsp;&nbsp;Gather real-time intelligence from Social media,, IOT, cameras etc.</li>
