@@ -78,6 +78,7 @@
      <li><a href="https://goosint.com/">GoOSINT</a>&nbsp;&nbsp;130 Web-enabled OSINT and Cybersecurity Tools.</li>
      <li><a href="https://docs.google.com/spreadsheets/d/1Ukgd0gIWd9gpV6bOx2pcSHsVO6yIUqbjnlM4ewjO6Cs/edit?gid=1257088277#gid=1257088277">Gravy App list</a>&nbsp;&nbsp;Location Tracking App List.</li>
      <li><a href="https://greasyfork.org/en/scripts">Greasy Fork</a>&nbsp;&nbsp;Scripts to help you with your OSINT.</li>
+     <li><a href="https://www.gsmarena.com/">GSM Arena</a>&nbsp;&nbsp;The ultimate resource for GSM mobile phone handset information.</li>
      <li><a href="https://hackyx.io/">Hachyx</a>&nbsp;&nbsp;The Search Engine for Cybersecurity.</li>
      <li><a href="https://intelligence.streamlit.app/">Intel Archives</a>&nbsp;&nbsp;Intelligence studies and intelligence history.</li>
      <li><a href="https://jdownloader.org/home/index">JDownloader</a>&nbsp;&nbsp;JDownloader is a free, open-source download management tool.</li>
