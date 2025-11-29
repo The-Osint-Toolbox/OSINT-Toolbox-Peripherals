@@ -13,6 +13,7 @@
 </table> 
 <ul>
    <li><a href="https://analystresearchtools.com/">Analyst Research Tools</a></li>
+   <li><a href="https://app.bosint.gg/">BOsint</a></li>
    <li><a href="https://coldrelation.com/">Cold Relation</a></li>
    <li><a href="https://www.deepfind.me/">DeepFindMe</a></li>
    <li><a href="https://digitaldigging.org/osint/">DigitalDigging</a></li>
