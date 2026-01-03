@@ -40,8 +40,12 @@
    </tr>
 </table>
 <ul>
-   <li><a href="https://grabify.link/">Grabify</a>&nbsp;&nbsp;Grabify IP logger will help you find and track an IP address.</li>
-   <li><a href="https://iplogger.org/">IP Logger</a>&nbsp;&nbsp;IP Logger URL Shortener - Log and track IP addresses.</li>
+  <li><a href="https://canarytokens.org/nest/">Canary Tokens</a></li>
+    <p>Primary interface for creating and managing Canarytokens.</p>
+  <li><a href="https://grabify.link/">Grabify</a></li>
+    <p>Grabify IP logger will help you find and track an IP address.</p>
+  <li><a href="https://iplogger.org/">IP Logger</a></li>
+    <p>IP Logger URL Shortener - Log and track IP addresses.</p>
 </ul>
 <table>
    <tr>
