@@ -26,6 +26,7 @@
    <li><a href="https://www.osint.industries/">OSINT.Industries</a></li>
    <li><a href="https://lambda.black/osint.html">OSINT Investigation Assistant</a></li>
    <li><a href="https://osintportal.com/">OSINT Portal</a></li>
+   <lI><a href="https://osint.sh/">OSINT SH</a></lI>
    <li><a href="https://www.os-surveillance.io/">OS-Surveillance</a></li>
    <li><a href="https://beta.predictagraph.com/">Predicta Graph</a></li>
    <li><a href="https://search.profiler.me/">Profiler</a></li>
