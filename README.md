@@ -110,6 +110,8 @@
      <li><a href="https://ukdataexplorer.com/european-translator/">UK Data Explorer</a>&nbsp;&nbsp;European word translator.</li>
      <li><a href="https://vidgrid.tk.gg/">VidGrid</a>&nbsp;&nbsp;Multi Video Feed.</li>
      <li><a href="https://explore.whatismybrowser.com/useragents/parse/">What Is My Browser</a>Parse a User Agnet String.</li>
+     <li><a href="https://wordpress.com/reader/search">Wordpress Reader</a></li>
+      <p>Enjoy millions of blogs at your fingertips.</p>
      <li><a href="https://github.com/TermuxHackz/X-osint">X-OSINT&nbsp;&nbsp;</a>An Open source intelligent framework, for emails, IPs, phone numbers etc.</li>
      <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga<a>&nbsp;&nbsp;Graphical Analyzer.</li>
      <li><a href="https://whos-zycher.github.io/opsec-guide/">Zycher</a>&nbsp;&nbsp;OPSEC tools.</li>
