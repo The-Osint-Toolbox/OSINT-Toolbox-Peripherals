@@ -28,21 +28,11 @@
    <li><a href="https://osintportal.com/">OSINT Portal</a></li>
    <lI><a href="https://osint.sh/">OSINT SH</a></lI>
    <li><a href="https://www.os-surveillance.io/">OS-Surveillance</a></li>
-    <p>Gather real-time intelligence from Social media,, IOT, cameras etc.</p>
-   <li><a href="https://ukdataexplorer.com/european-translator/">Uk Data Explorer</a></li>
-     <p>European word translator.</p>
-   <li><a href="https://vidgrid.tk.gg/">VidGrid</a></li>
-     <p>Multi Video Feed</p>
-   <li><a href="https://explore.whatismybrowser.com/useragents/parse/">What Is My Browser</a></li>
-     <p>Parse a User Agnet String.</p>
-   <li><a href="https://wordpress.com/reader/search">Wordpress Reader</a></li>
-     <p>Enjoy millions of blogs at your fingertips.</p>
-   <li><a href="https://github.com/TermuxHackz/X-osint">X-OSINT</a></li>
-     <p>An Open source intelligent framework, for emails, IPs, phone numbers etc.</p>
-   <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga<a></li>
-     <p>Graphical Analyzer.</p>
-   <li><a href="https://whos-zycher.github.io/opsec-guide/">Zycher</a></li>
-     <p>OPSEC tools.</p>
+   <li><a href="https://beta.predictagraph.com/">Predicta Graph</a></li>
+   <li><a href="https://search.profiler.me/">Profiler</a></li>
+   <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
+   <li><a href="https://login.hx.spiderfoot.net/signin?">Spiderfoot HX</a></li>
+ 
 </ul>
 <table>
    <tr>
@@ -116,16 +106,22 @@
      <li><a href="https://receive-smss.com/">ReceiveSMS</a>&nbsp;&nbsp;Temporary phone numbers from 50+ countries.</li>
      <li><a href="https://github.com/seekr-osint/seekr">Seekr</a>&nbsp;&nbsp;A multi-purpose OSINT toolkit with a neat web-interface.</li>
      <li><a href="https://sms4sats.com/">SMS4Sats</a>&nbsp;&nbsp;Send and receive SMS without giving away your phone number.</li>
-     <li><a href="https://www.os-surveillance.io/">OS-Surveillance</a>&nbsp;&nbsp;Gather real-time intelligence from Social media,, IOT, cameras etc.</li>
-     <li><a href="https://ukdataexplorer.com/european-translator/">UK Data Explorer</a>&nbsp;&nbsp;European word translator.</li>
-     <li><a href="https://vidgrid.tk.gg/">VidGrid</a>&nbsp;&nbsp;Multi Video Feed.</li>
-     <li><a href="https://explore.whatismybrowser.com/useragents/parse/">What Is My Browser</a>Parse a User Agnet String.</li>
+     <li><a href="https://www.os-surveillance.io/">OS-Surveillance</a></li>
+      <p>Gather real-time intelligence from Social media,, IOT, cameras etc.</p>
+     <li><a href="https://ukdataexplorer.com/european-translator/">Uk Data Explorer</a></li>
+      <p>European word translator.</p>
+     <li><a href="https://vidgrid.tk.gg/">VidGrid</a></li>
+      <p>Multi Video Feed</p>
+     <li><a href="https://explore.whatismybrowser.com/useragents/parse/">What Is My Browser</a></li>
+      <p>Parse a User Agnet String.</p>
      <li><a href="https://wordpress.com/reader/search">Wordpress Reader</a></li>
       <p>Enjoy millions of blogs at your fingertips.</p>
-     <li><a href="https://github.com/TermuxHackz/X-osint">X-OSINT&nbsp;&nbsp;</a>An Open source intelligent framework, for emails, IPs, phone numbers etc.</li>
-     <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga<a>&nbsp;&nbsp;Graphical Analyzer.</li>
-     <li><a href="https://whos-zycher.github.io/opsec-guide/">Zycher</a>&nbsp;&nbsp;OPSEC tools.</li>
-</ul>
+     <li><a href="https://github.com/TermuxHackz/X-osint">X-OSINT</a></li>
+      <p>An Open source intelligent framework, for emails, IPs, phone numbers etc.</p>
+     <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga<a></li>
+      <p>Graphical Analyzer.</p>
+    <li><a href="https://whos-zycher.github.io/opsec-guide/">Zycher</a></li>
+      <p>OPSEC tools.</p>
 <table>
     <tr>
         <td>Operating Systems</td>
