@@ -53,9 +53,10 @@
    </tr>
 </table>
 <ul>
-   <li><a href="http://searchalljunk.com/">Search All Junk</a></li>
-   <li><a href="https://www.searchtempest.com/">Search Tempest</a></li>
    <li><a href="https://claz.org/">Claz</a></li>
+   <li><a href="http://searchalljunk.com/">Search All Junk</a></li>
+   <li><a href="https://searchcraigslist.org/">Search All Craiglist</a></li>
+   <li><a href="https://www.searchtempest.com/">Search Tempest</a></li>
 </ul>
 <table>
     <tr>
