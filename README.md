@@ -28,11 +28,21 @@
    <li><a href="https://osintportal.com/">OSINT Portal</a></li>
    <lI><a href="https://osint.sh/">OSINT SH</a></lI>
    <li><a href="https://www.os-surveillance.io/">OS-Surveillance</a></li>
-   <li><a href="https://beta.predictagraph.com/">Predicta Graph</a></li>
-   <li><a href="https://search.profiler.me/">Profiler</a></li>
-   <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
-   <li><a href="https://login.hx.spiderfoot.net/signin?">Spiderfoot HX</a></li>
-   <li><a href="https://osint.ly/">Osintly</a></li>
+    <p>Gather real-time intelligence from Social media,, IOT, cameras etc.</p>
+   <li><a href="https://ukdataexplorer.com/european-translator/">Uk Data Explorer</a></li>
+     <p>European word translator.</p>
+   <li><a href="https://vidgrid.tk.gg/">VidGrid</a></li>
+     <p>Multi Video Feed</p>
+   <li><a href="https://explore.whatismybrowser.com/useragents/parse/">What Is My Browser</a></li>
+     <p>Parse a User Agnet String.</p>
+   <li><a href="https://wordpress.com/reader/search">Wordpress Reader</a></li>
+     <p>Enjoy millions of blogs at your fingertips.</p>
+   <li><a href="https://github.com/TermuxHackz/X-osint">X-OSINT</a></li>
+     <p>An Open source intelligent framework, for emails, IPs, phone numbers etc.</p>
+   <li><a href="https://github.com/WebBreacher/obsidian-osint-templates">Yoga<a></li>
+     <p>Graphical Analyzer.</p>
+   <li><a href="https://whos-zycher.github.io/opsec-guide/">Zycher</a></li>
+     <p>OPSEC tools.</p>
 </ul>
 <table>
    <tr>
