@@ -113,6 +113,8 @@
       <p>Gather real-time intelligence from Social media,, IOT, cameras etc.</p>
      <li><a href="https://ukdataexplorer.com/european-translator/">Uk Data Explorer</a></li>
       <p>European word translator.</p>
+     <li><a href="https://utilshut.com/tools/">Utilshut</a></li>
+      <p>67 free browser-based utilities - EXIF stripping, image conversion, hashing, JSON/CSV/PDF handling, encoding and diffing. No account, no uploads.</p>
      <li><a href="https://vidgrid.tk.gg/">VidGrid</a></li>
       <p>Multi Video Feed</p>
      <li><a href="https://explore.whatismybrowser.com/useragents/parse/">What Is My Browser</a></li>
